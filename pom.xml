@@ -29,11 +29,11 @@
     </site>
     <snapshotRepository>
             <id>nexus</id>
-            <url>http://35.183.70.43:8081/https://github.com/nicoleashley77/realworld-cicd-pipeline-project.git/maven-project-snapshot/</url>
+            <url>http://172.31.6.87:8081/repository/maven-project-snapshot/</url>
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <url>http://35.183.70.43:8081/https://github.com/nicoleashley77/realworld-cicd-pipeline-project.git/maven-project-release/</url>
+            <url>http://172.31.6.87:8081/repository/maven-project-release/</url>
         </repository>
   </distributionManagement>
 
